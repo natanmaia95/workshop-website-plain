@@ -275,9 +275,9 @@ I recommend you pick one of these themes to learn and experiment with. Take it a
 ---
 # Websites for inspiration!
 _(As a reminder, if you're curious about an element or style or effect, you can always Inspect Element on it to check the HTML + CSS)._
-https://seashrine.neocities.org/
-https://www.sirmilkman.com/index
-http://www.kirbysrainbowresort.net/index2.html
-https://neonaut.neocities.org/cyber/88x31 (many indieweb buttons)
-https://www.cs.furyu.jp/beyblade2025/en/
-https://zeroxm.github.io/pokemon-roulette/ (game!)
+- https://seashrine.neocities.org/
+- https://www.sirmilkman.com/index
+- http://www.kirbysrainbowresort.net/index2.html
+- https://neonaut.neocities.org/cyber/88x31 (many indieweb buttons)
+- https://www.cs.furyu.jp/beyblade2025/en/
+- https://zeroxm.github.io/pokemon-roulette/ (game!)
